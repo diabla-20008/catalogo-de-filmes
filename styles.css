@@ -1,0 +1,27 @@
+body{
+    color: rgb(255, 8, 0);
+    background: black; 
+    margin: 0px;
+}
+
+header{
+    font-family: "New Amsterdam", sans-serif;
+    border-bottom: solid 4px rgba(214, 213, 213, 0.948);
+    font-size: 32px;
+    padding: 20px; 
+    background: rgba(214, 213, 213, 0.948);
+    color:rgb(0, 0, 0);
+   
+}
+
+section{
+    font-family: "Poppins", sans-serif;
+background: rgb(255, 255, 255);
+padding-top: 40px;
+padding-bottom: 40px ;
+display: flex;
+justify-content: center;
+}
+.chamada-texto{
+margin-right:5px;
+}
